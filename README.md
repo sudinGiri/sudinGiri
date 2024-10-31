@@ -26,5 +26,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanjib0008&theme=radical&background=ffffff&ring=333333&fire=333333&currStreakLabel=333333&sideLabels=333333&dates=333333)](https://git.io/streak-stats)
 
+## 🛠️ Skills
+- ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black) Power BI
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL
+
 
 
