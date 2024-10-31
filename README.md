@@ -18,43 +18,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sanjib-manna/)
-- [Email](mailto:mannasanji24@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- **[LinkedIn]**(https://www.linkedin.com/in/sanjib-manna/)
+- **[Email]**(mailto:mannasanji24@gmail.com)
