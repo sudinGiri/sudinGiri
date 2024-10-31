@@ -3,7 +3,7 @@
 🎓 **Data Analytics & GIS Specialist** with over 13 years of experience in geospatial analysis, data modeling, and project management. Skilled in SQL, Python, and Power BI.
 
 ## 🔧 Technologies & Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black),![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-009EE0?style=flat&logo=esri&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-66B2B2?style=flat&logo=qgis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black),![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-009EE0?style=flat&logo=esri&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-66B2B2?style=flat&logo=qgis&logoColor=white)
 - **Skills**: Data Visualization, Spatial Analysis, Project Management
 
 🌱 I’m currently learning Spatial Indexing
