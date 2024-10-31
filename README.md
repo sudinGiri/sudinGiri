@@ -21,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-manna/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannasanjib24)
 - **Email**: mannasanji24@gmail.com
-- **Phone**: +91 9432828885/7852911828
+- **Phone**: +91 9432828885 / 7852911828
