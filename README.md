@@ -23,7 +23,7 @@
 - **Email**: mannasanji24@gmail.com
 - **Phone**: +91 9432828885 / 7852911828
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanjib0008&theme=radical&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanjib0008&theme=radical&background=ffffff)](https://git.io/streak-stats)
 
 
 
