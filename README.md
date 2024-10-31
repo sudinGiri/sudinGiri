@@ -3,8 +3,8 @@
 🎓 **Data Analytics & GIS Specialist** with over 13 years of experience in geospatial analysis, data modeling, and project management. Skilled in SQL, Python, and Power BI.
 
 ## 🔧 Technologies & Skills
-- **Languages**: Python, SQL
-- **Tools**: Power BI, Excel, PostgreSQL, ArcGIS, QGIS
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Tools**: ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black), Excel, PostgreSQL, ArcGIS, QGIS
 - **Skills**: Data Modeling, Data Visualization, Spatial Analysis, Project Management
 
 🌱 I’m currently learning Spatial Indexing
@@ -26,10 +26,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanjib0008&theme=radical&background=ffffff&ring=333333&fire=333333&currStreakLabel=333333&sideLabels=333333&dates=333333)](https://git.io/streak-stats)
 
-## 🛠️ Skills
-- ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black) Power BI
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL
 
 
 
