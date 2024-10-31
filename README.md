@@ -18,5 +18,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- **[LinkedIn]**(https://www.linkedin.com/in/sanjib-manna/)
-- **[Email]**(mailto:mannasanji24@gmail.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/sanjib-manna/)
+How to reach me (mailto:mannasanji24@gmail.com)
