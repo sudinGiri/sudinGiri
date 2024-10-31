@@ -15,10 +15,13 @@
 - 'Slum to Livable Habitat (JAGA) Mission'-Spearheaded initiatives to transform slums into sustainable, livable habitats with modern amenities by integrating geospatial data, implementing land management solutions, and collaborating with government bodies to ensure project success
 - Land Use and Land Cover (LULC) & Land Management System for SAIL and Burn Standard
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&theme=merko)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-manna/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannasanjib24)
 - **Email**: mannasanji24@gmail.com
 - **Phone**: +91 9432828885 / 7852911828
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&count_private=true&hide=prs&theme=radical)
+
