@@ -9,11 +9,12 @@
 🌱 I’m currently learning Spatial Indexing
 
   ## 🌟 Featured Projects
+- BFSI project of ICICI Bank
 - Land Record Mapping System-Comprehensive GIS project for land record mapping and management.
 - 'Slum to Livable Habitat (JAGA) Mission'-Spearheaded initiatives to transform slums into sustainable, livable habitats with modern amenities by integrating geospatial data, implementing land management solutions, and collaborating with government bodies to ensure project success
 - Land Use and Land Cover (LULC) & Land Management System for SAIL and Burn Standard
 ## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib0008&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib0008&layout=compact&theme=radical&background=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib0008&show_icons=true&theme=merko)
 
