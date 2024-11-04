@@ -22,7 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudin-giri-6814b74a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImSudinGiri)
 - **Email**: rsgis.sudin@gmail.com
-- **Phone**: +91 8839639782
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudinGiri&theme=radical&background=ffffff&ring=333333&fire=333333&currStreakLabel=333333&sideLabels=333333&dates=333333)](https://git.io/streak-stats)
 
