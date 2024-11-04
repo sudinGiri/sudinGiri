@@ -20,7 +20,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sudinGiri&show_icons=true&theme=merko)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudin-giri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudin-giri-6814b74a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImSudinGiri)
 - **Email**: rsgis.sudin@gmail.com
 - **Phone**: +91 8839639782
