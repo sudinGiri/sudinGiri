@@ -11,7 +11,6 @@
 
   ## 🌟 Featured Projects
 - Integration of POI data in CRM system for catchment area analysis and promotional activity planning and custom Dashboard for Map Visualization and Data exports as per the assigned sales territories for ICICI Bank.
-- GIS Mapping to assign land rights to slum dwellers in Odisha.
 - Implementation of Development, Commissioning and Maintenance of GIS Application & Satellite Imagery Based Land Records and Information Management System (LRIMS).
 - Municipal tax and fee improvement - Improvement in property tax collection study for Panaji Smart City.- 
 ## 📊 Most Used Languages
